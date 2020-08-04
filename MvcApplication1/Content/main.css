@@ -1,0 +1,33 @@
+﻿body {
+     background: radial-gradient(black, white, blue);
+     background-repeat:no-repeat;
+     background-size:cover;
+     height:800px;
+}
+
+
+header {
+
+    margin:0.625% auto;
+    width:87.5%;
+    height:100px;
+    background:linear-gradient(black, white, goldenrod);
+
+}
+
+main {
+    margin:0.625% auto;
+    width:87.5%;
+    height:550px;
+    background-color:navajowhite;
+
+}
+
+footer {
+
+    margin:0 auto;
+    width:87.5%;
+    height:60px;
+    background:linear-gradient(black, white, #169);
+    clear:both;
+}
