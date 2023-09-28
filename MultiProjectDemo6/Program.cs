@@ -16,7 +16,7 @@ namespace MultiProjectDemo6
 
             someDelegatePointer delegateObj = new someDelegatePointer(delegateFunction);
 
-            Int32 a = 44;
+            Int32 a = 54;
             Int32 b = 55;
 
             Int32 result = delegateObj.Invoke(a,b);
